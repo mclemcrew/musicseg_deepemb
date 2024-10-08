@@ -19,7 +19,7 @@ setup(
    keywords='Music segmentation deep embeddings section fusion',
    license='See LICENSE.txt',
    install_requires=[
-      'torch==1.1.0',
+      'torch==1.8.0',
       'torchvision==0.2.1',
       'torchsummary==1.5.1',
       'numpy==1.19.2',
